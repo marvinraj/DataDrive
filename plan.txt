@@ -1,0 +1,11 @@
+DataDrive
+
+what am i building?
+- what a file management system using the MEVN stack
+
+what's the plan?
+1. setup backend -- get structure right
+    - install dependencies/packages + nodemon
+    - create a simple server
+    - create .gitignore file & include node_modules in it
+    
