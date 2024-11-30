@@ -8,4 +8,11 @@ what's the plan?
     - install dependencies/packages + nodemon
     - create a simple server
     - create .gitignore file & include node_modules in it
-    
+2. setup frontend --
+    - npm install -g @vue/cli
+    - vue create client
+    - npm i axios
+    - change cli version in package.json and run npm install
+    - npm run serve
+3. im completely new to vue, so i'll have to understand vue thorougly before
+starting anything (complete a short tutorial)
