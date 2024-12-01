@@ -14,5 +14,8 @@ what's the plan?
     - npm i axios
     - change cli version in package.json and run npm install
     - npm run serve
+    - created global.css
 3. im completely new to vue, so i'll have to understand vue thorougly before
 starting anything (complete a short tutorial)
+4. now, back to backend
+    - let's try to connect the server to MongoDB through mongoose.

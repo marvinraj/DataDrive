@@ -10,7 +10,13 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  }
+  },
+  // data() {
+  //   return {
+  //     title: "this is a title",
+  //     subtitle: "this is a subtitle"
+  //   }
+  // }
 }
 </script>
 
